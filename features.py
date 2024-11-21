@@ -52,3 +52,21 @@ print(len(num))
 # min & max
 print(min(num))
 print(max(num))
+
+# sum
+print(sum(num))
+
+# sorted
+print(sorted(num))
+
+# count
+print(num.count(1))
+
+# index
+print(num.index(1))
+
+# unpacking/ destructuring
+a,b,curma = c
+print(a)
+print(b)
+print(curma)
