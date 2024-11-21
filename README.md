@@ -1,4 +1,4 @@
-#<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> pydata-structure
+# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> pydata-structure
 
 Selamat datang di repository pembelajaran Struktur Data menggunakan Python! Repository ini berisi materi, implementasi, dan latihan yang saya kerjakan untuk memperdalam pemahaman saya tentang berbagai struktur data dengan menggunakan bahasa pemrograman Python.
 
